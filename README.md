@@ -6,12 +6,12 @@ Automation has been key to my success, especially in testing, whether it’s uni
 
 
 - 🔭 I’m currently working as MuleSoft Integraiton developer to help customer solve their business problems using MuleSoft Technologies.
-- 💬 Ask me about: MuleSoft, Dataweave, Java.
+- 💬 Ask me about: MuleSoft, Dataweave, Workato.
 - 📫 How to reach me: Find me on LinkedIn.com [LinkedIn](https://www.linkedin.com/in/sukesh-talari-3911861b7/)
 - 😄 Pronouns: He/Him
 
 <!--
-**devsha256/devsha256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sukesh142/Sukesh142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
