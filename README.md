@@ -1,8 +1,21 @@
 ## Hi there! 👋
 
-With over 5+ years of experience specializing in API integration, particularly with technologies like MuleSoft, I have developed strong skills in software development. Along the way, I've earned industry-recognized certifications, including those in MuleSoft Development and Anypoint Platform Architecture. While MuleSoft has been central to my career, my experience extends beyond it.
+With over 5+ years of experience in API-led integration, I specialize in designing and delivering scalable, enterprise-grade solutions using MuleSoft and modern integration technologies. My expertise spans end-to-end API development, implementation, and optimization across complex distributed systems.
 
-Automation has been key to my success, especially in testing, whether it’s unit or integration testing. I'm familiar with various architectural patterns, including ETL, real-time, and asynchronous Pub/Sub models. If you know of any projects or teams that could benefit from my skills, please feel free to connect!
+I hold industry-recognized certifications in MuleSoft Development and Anypoint Platform Architecture, validating my technical depth and architectural understanding. While MuleSoft has been central to my career, my experience extends across broader integration ecosystems, automation frameworks, and enterprise architecture practices.
+
+Automation has been a key driver of my success — particularly in unit testing, integration testing, and CI/CD enablement — ensuring reliability, performance, and maintainability across deployments.
+
+I am experienced in implementing multiple architectural patterns, including:
+              
+⛤ API-led connectivity
+⛤ ETL-based data processing
+⛤ Real-time integrations
+⛤ Asynchronous Pub/Sub messaging models
+
+I thrive in collaborative environments, working closely with cross-functional teams and stakeholders to deliver resilient, high-performance integration solutions.
+
+If you're building integration-heavy systems or modernizing your API landscape, I’d be glad to connect.
 
 
 - 🔭 I’m currently working as MuleSoft Integraiton developer to help customer solve their business problems using MuleSoft Technologies.
